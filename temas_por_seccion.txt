@@ -1,0 +1,42 @@
+// SECCION 1
+
+    NADA
+
+// SECCION 2 
+
+    - CLI
+
+// SECCION 3
+
+    - Base para el proyecto
+            - Configurar template html para Angular
+            - Primeros Componentes
+            - Rutas
+            - librerias externas
+            - Login y Register separados del template
+            - Animaciones
+
+// SECCION 4
+
+    -  Crear modulo personalizado
+    -  Rutas Hijas ( ForChild() )
+
+// SECCION 5 
+
+        NADA
+
+// SECCION 6
+
+    -  Outputs, Inputs y ViewChild
+    -  Componente re utilizable (incrementador)
+    -  Atributos personalizados
+    -  Graficas
+
+// SECCION 7
+
+    -  Cambiar template 
+    -  Javascript puro en Angular
+    -  LocalStorage
+    -  Agrupar todos los servicios en un módulo
+    -  Crear servicio para manejar sidebar o navbar
+    -  Importar scripts de archivos assets/js en un componente de angular
