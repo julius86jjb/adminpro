@@ -40,3 +40,16 @@
     -  Agrupar todos los servicios en un módulo
     -  Crear servicio para manejar sidebar o navbar
     -  Importar scripts de archivos assets/js en un componente de angular
+
+// SECCION 8
+
+    -  Teoría sobre Promesas y Observables
+    -  Creación de Snippets propios
+    -  Creación de una nueva página (componente, ruta, update sidebarservice)
+    -  Creacion de una promesa básica
+    -  Creacion de una promesa con función
+    -  Observables en constructor, retry, observable en función.
+    -  Observables operadores map, filter, unsuscribe
+    -  Modificar breadcrumb en base a Observables
+    -  Cambiar el titulo de la pagina ( Title)
+    -  Configurar "metas" dependiendo de la pagina
