@@ -14,12 +14,16 @@ import { RegisterComponent } from './login/register.component';
 import { APP_ROUTES } from './app.routes';
 
 
-// MODULOS PROPIOS
+
+// MODULOS PROPIOS //
+
+// Paginas
 import { PagesModule } from './pages/pages.module';
 
 
-// SERVICIOS
+// Servicios
 import { ServiceModule } from './services/service.module';
+
 
 @NgModule({
   declarations: [
